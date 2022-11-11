@@ -1,0 +1,101 @@
+/*Fet per: Carlos Melgosa Martínez*/
+body{
+   width: 96%;
+   font-family:Verdana,Arial, serif;
+   margin: 0 auto;
+   background-color:#ffffff;
+}
+
+h2{
+   font-family:Georgia, Times, serif;
+   font-style:italic;
+   width: 620px; 
+}
+
+header {
+   flex-grow: 1;
+   display: flex;
+   flex-direction: column;
+   font-family:Georgia, Times, serif;
+   font-size:1.2rem; 
+   background-color:#0f0f0f;
+   color: #FFFFFF;
+   padding-left: 20px;
+}
+
+#main-content {
+   display: flex;
+   flex-direction: row;
+   flex-grow: 0;
+   padding-left: 0px;
+}
+.delimitador{
+   width: 10px;
+   background-color: #0f0f0f;
+}
+.separador img{
+   max-width: auto;
+}
+#bio{
+   display: flex;
+   flex-direction: column;
+   flex-grow: 0;
+}
+.Descripcion{
+   padding-left: 20px;
+}
+.detallesDescripcion{
+   display: flex;
+   flex-direction: row;
+   flex-grow: 0;
+}
+.Educación{
+   padding-left: 20px;
+}
+.Experiencia{
+   padding-left: 20px;
+}
+.Descripcion img{
+   width: 30%;
+   min-width:50px;
+   max-width:150px;
+   float: right;
+   margin-left: 10px;
+   padding-right: 10px;
+}
+.DatosPersonales{
+   
+   text-align: left;
+   background-color:#1d1a1a;
+   padding: 20px;
+   flex-grow: 1;
+}
+.DatosPersonales a{
+   color: #FFFFFF;
+}
+.DatosPersonales h4{
+   background-color: #FFFFFF;
+   color:#1d1a1a ;
+   width:fit-content;
+   padding-left:4px;
+   padding-right: 4px;
+}
+
+.DatosPersonales h3{
+   color:#FFFFFF;
+   width:fit-content;
+}
+.DatosPersonales p{
+   font-weight: bold;
+   color:#FFFFFF;
+}
+.DatosPersonales ul{
+   font-weight: bold;
+   color:#FFFFFF;
+}
+
+.DatosPersonales .Habilidades{
+   display: flex;
+   flex-direction: row;
+   flex-grow: 0;
+}
