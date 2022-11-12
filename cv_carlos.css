@@ -1,14 +1,13 @@
 /*Fet per: Carlos Melgosa Martínez*/
 body{
    width: 96%;
-   font-family:Verdana,Arial, serif;
+   font-family:Verdana;
    margin: 0 auto;
    background-color:#ffffff;
 }
 
 h2{
-   font-family:Georgia, Times, serif;
-   font-style:italic;
+   font-family:Verdana;
    width: 620px; 
 }
 
