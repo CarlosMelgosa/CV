@@ -30,5 +30,6 @@ Separator: AAA5D6
 The typography used is Verdana, and the page layout is very simple, composed by 3 parts:
 The header which contains the name and the qualifications i have, the side section which has all the information referring to where i live, phone number and some of the skills i have, and the main section which has a white background separated in 3 parts that are, a brief description of myself, where i studied and what qualifications i have and the experiences i had in the sector.
 
+LINK TO THE HYPERMEDIA PROJECT PART 1: https://carlosmelgosa.github.io/CV/cv_carlos
 
 
