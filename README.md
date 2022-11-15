@@ -31,5 +31,5 @@ The typography used is Verdana, and the page layout is very simple, composed by 
 The header which contains the name and the qualifications i have, the side section which has all the information referring to where i live, phone number and some of the skills i have, and the main section which has a white background separated in 3 parts that are, a brief description of myself, where i studied and what qualifications i have and the experiences i had in the sector.
 
 LINK TO THE HYPERMEDIA PROJECT PART 1: https://carlosmelgosa.github.io/CV/cv_carlos
-
+LINK TO THE PROPOSAL WITH FIGMA: https://www.figma.com/file/2iH8XxRJTNf8QmmACZbpQ4/CV-Project?node-id=0%3A1&t=Tt3AnKIlRG3PrTV7-1
 
